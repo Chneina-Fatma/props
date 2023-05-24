@@ -21,3 +21,18 @@ img{
 margin-Left: "27%";
  width:"50%";
 }
+button{
+    color: rgb(8, 4, 64);
+    background-color: rgb(122, 167, 195);
+    border: none;
+    border-radius: 50%;
+    height: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but{
+    display: flex;
+    justify-content: center;
+}
