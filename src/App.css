@@ -1,0 +1,23 @@
+
+
+
+h1{
+    text-Align:center;
+     color: rgb(60, 184, 151);
+      font-Family:time new roman;
+}
+h4{
+    text-Align:center;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-family: fantasy;
+    color: rgb(216, 165, 98);
+
+}
+img{
+    border:1px double;
+    border-color: rgb(192, 26, 109);
+    border-radius: 20PX;
+margin-Left: "27%";
+ width:"50%";
+}
